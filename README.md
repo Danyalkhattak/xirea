@@ -9,6 +9,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Danyalkhattak/xirea/releases"><img src="https://img.shields.io/github/v/release/Danyalkhattak/xirea?style=for-the-badge&logo=github&color=6366F1" alt="Release"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/Danyalkhattak/xirea?style=for-the-badge&logo=opensourceinitiative&logoColor=white&color=10B981" alt="License"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Platform-Android-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Platform"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/API-26+-FF6F00?style=for-the-badge&logo=android&logoColor=white" alt="API"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Offline-100%25-EF4444?style=for-the-badge&logo=shieldsdotio&logoColor=white" alt="Offline"/></a>
+</p>
+
+<p align="center">
   <a href="#features">Features</a> •
   <a href="#screenshots">Screenshots</a> •
   <a href="#installation">Installation</a> •
@@ -29,13 +37,13 @@ Powered by [llama.cpp](https://github.com/ggerganov/llama.cpp) for efficient on-
 
 ## Features
 
-- 🔒 **100% Offline** — All AI processing happens on-device
-- 🚀 **Fast Inference** — Optimized for mobile with dynamic RAM scaling
-- 💬 **Chat History** — Persistent local storage with Room database
-- 📥 **Model Management** — Download, switch, and delete AI models
-- 🌙 **Dark Mode** — Beautiful Material3 light and dark themes
-- 📱 **Modern UI** — Built with Jetpack Compose
-- 🔐 **Privacy First** — No data collection, no servers, no tracking
+- <img src="https://img.shields.io/badge/-Offline-EF4444?style=flat-square&logo=wifioff&logoColor=white" height="18"/> **100% Offline** — All AI processing happens on-device
+- <img src="https://img.shields.io/badge/-Fast-F59E0B?style=flat-square&logo=bolt&logoColor=white" height="18"/> **Fast Inference** — Optimized for mobile with dynamic RAM scaling
+- <img src="https://img.shields.io/badge/-Chat-3B82F6?style=flat-square&logo=googlechat&logoColor=white" height="18"/> **Chat History** — Persistent local storage with Room database
+- <img src="https://img.shields.io/badge/-Models-8B5CF6?style=flat-square&logo=huggingface&logoColor=white" height="18"/> **Model Management** — Download, switch, and delete AI models
+- <img src="https://img.shields.io/badge/-Dark_Mode-1E293B?style=flat-square&logo=darkreader&logoColor=white" height="18"/> **Dark Mode** — Beautiful Material3 light and dark themes
+- <img src="https://img.shields.io/badge/-Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="18"/> **Modern UI** — Built with Jetpack Compose
+- <img src="https://img.shields.io/badge/-Private-10B981?style=flat-square&logo=shieldsdotio&logoColor=white" height="18"/> **Privacy First** — No data collection, no servers, no tracking
 
 ---
 
@@ -99,16 +107,15 @@ The APK will be generated at `app/build/outputs/apk/`
 
 ## Tech Stack
 
-| Component | Technology |
-|-----------|------------|
-| **Language** | Kotlin |
-| **UI Framework** | Jetpack Compose |
-| **AI Engine** | llama.cpp (C++) |
-| **Database** | Room |
-| **Architecture** | MVVM |
-| **Async** | Kotlin Coroutines + Flow |
-| **DI** | Manual (lightweight) |
-| **Theme** | Material3 |
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose"/>
+  <img src="https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="llama.cpp"/>
+  <img src="https://img.shields.io/badge/Room_DB-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room"/>
+  <img src="https://img.shields.io/badge/Material3-6750A4?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material3"/>
+  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines"/>
+  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logo=android&logoColor=white" alt="MVVM"/>
+</p>
 
 ---
 
@@ -189,7 +196,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Danyal Khattak**
 
-- GitHub: [@Danyalkhattak](https://github.com/Danyalkhattak)
+<p>
+  <a href="https://github.com/Danyalkhattak"><img src="https://img.shields.io/badge/GitHub-Danyalkhattak-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://instagram.com/dannyk_739"><img src="https://img.shields.io/badge/Instagram-dannyk__739-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
 ---
 
@@ -202,5 +212,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by Danyal Khattak
+  Made with <img src="https://img.shields.io/badge/-%E2%9D%A4-EF4444?style=flat-square&logoColor=white" height="16"/> by <b>Danyal Khattak</b>
 </p>
